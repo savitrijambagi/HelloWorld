@@ -2,7 +2,7 @@ class Demo
 {  
     public static void main(String args[])
 {  
-     System.out.println("Hello Soft akkavva");  
+     System.out.println("Hello Soft palak");  
     }  
 } 
  
